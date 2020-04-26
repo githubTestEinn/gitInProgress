@@ -1,0 +1,18 @@
+
+body
+{
+	margin: 0 auto;
+	width: 960px;
+	background-color: black;
+}
+
+h1
+{
+	color: blue;
+}
+
+p
+{
+	color: red;
+	text-decoration: underline;
+}
